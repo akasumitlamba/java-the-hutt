@@ -18,7 +18,6 @@
 // Remaining amount: 14580
 // code------------------------------------------------
 import java.util.Scanner;
-
 public class loancalculator
 {
 	public static void main(String[] args) {
