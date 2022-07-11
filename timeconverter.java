@@ -6,7 +6,6 @@ public class timeconverter {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int days = scanner.nextInt();
-		
 		//your code goes here
 		int hour=days*24;
 		int min= hour*60;
