@@ -17,6 +17,7 @@
 // Payment: 10% of 16200 = 1620
 // Remaining amount: 14580
 // code----------------------------------------------------------------------------------
+
 import java.util.Scanner;
 public class loancalculator
 {
