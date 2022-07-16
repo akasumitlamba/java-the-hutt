@@ -13,6 +13,7 @@
 // Month 2
 // Payment: 10% of 18000 = 1800
 // Remaining amount: 16200
+
 // Month 3:
 // Payment: 10% of 16200 = 1620
 // Remaining amount: 14580

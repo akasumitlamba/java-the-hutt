@@ -4,5 +4,4 @@ class userinput {
         Scanner myVar = new Scanner(System.in);
         System.out.println(myVar.nextLine());        
     }
-
 }
