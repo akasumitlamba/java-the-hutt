@@ -11,5 +11,6 @@ public class timeconverter {
 		int min= hour*60;
 		int sec=min*60;
 		System.out.println(sec);
+		
 	}
 }
