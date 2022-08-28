@@ -12,7 +12,7 @@ public class max3{
 //            k=a;
 //        } else
 //            k=c;
-//    } 
+//    }
 //    else{
 //        if(b>c){
 //            k=b;
