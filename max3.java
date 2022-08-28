@@ -20,7 +20,6 @@ public class max3{
 //        else{
 //            k=c
 //        }
-
         k=a>b?a>c?a:c:b>c?b:c;
         System.out.println("greatest is "+k);
     }
