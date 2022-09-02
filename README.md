@@ -14,7 +14,6 @@ j
 a
 v
 a 
-
 c
 o
 d
